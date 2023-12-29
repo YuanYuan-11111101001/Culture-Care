@@ -12,3 +12,7 @@ put images displayed in assets folder under src.
 use npm install react-router-dom in vsc terminal
 
 App.css is for styling that applies to everything. styles folder css is for specific files styling
+
+Video: Intro To React Database Connections - https://www.youtube.com/watch?v=HVdMhKN2ng4
+
+
